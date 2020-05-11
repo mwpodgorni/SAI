@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sai-loanbroker.iml" filepath="$PROJECT_DIR$/.idea/modules/sai-loanbroker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank/sai-loanbroker.bank.iml" filepath="$PROJECT_DIR$/.idea/modules/bank/sai-loanbroker.bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank/sai-loanbroker.bank.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bank/sai-loanbroker.bank.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank/sai-loanbroker.bank.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bank/sai-loanbroker.bank.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-broker/sai-loanbroker.loan-broker.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-broker/sai-loanbroker.loan-broker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-broker/sai-loanbroker.loan-broker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-broker/sai-loanbroker.loan-broker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-broker/sai-loanbroker.loan-broker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-broker/sai-loanbroker.loan-broker.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-client/sai-loanbroker.loan-client.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-client/sai-loanbroker.loan-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-client/sai-loanbroker.loan-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-client/sai-loanbroker.loan-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-client/sai-loanbroker.loan-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-client/sai-loanbroker.loan-client.test.iml" />
+    </modules>
+  </component>
+</project>
